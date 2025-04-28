@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @AForkuo
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...+233 249360301
+# Hi, I'm Abraham Forkuo!
 
-<!---
-AForkuo/AForkuo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Computer Science and Mathematics Graduate from University of Ghana
+- Passionate about Web Development and Data Analysis
+- Skilled in Python, JavaScript, React.js, Flask, and SQL
+- Always excited to learn new technologies and work on impactful projects!
+
+📫 How to reach me: abrahamforkuo8@gmail.com
+🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/abrahamforkuo)
